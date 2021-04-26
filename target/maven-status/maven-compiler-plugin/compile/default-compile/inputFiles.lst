@@ -1,0 +1,16 @@
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/tasks/CheckRankTask.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/utils/RankUtils.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/Config.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/listeners/PlayerListener.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/datasources/DataSourceInterface.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/datasources/MySQLDataSource.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/tasks/UpdateRankTask.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/managers/RankManager.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/RanksPlugin.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/types/ConfigType.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/utils/TimeUtils.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/objects/PlayerTime.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/fabrics/PlayerTimeFabric.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/managers/CommandManager.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/datasources/AbstractDataSource.java
+/Users/repin/Documents/Work/Projects/minecraft/Ranks/src/main/java/net/ucrafts/ranks/commands/RankCommand.java
