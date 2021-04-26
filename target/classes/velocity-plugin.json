@@ -1,1 +1,0 @@
-{"id":"ranks","name":"RanksPlugin","version":"1.0.0","description":"Change permission group by play time","url":"https://ucrafts.net","authors":["Alexander Repin / oDD1"],"dependencies":[{"id":"luckperms","optional":false}],"main":"net.ucrafts.ranks.RanksPlugin"}
