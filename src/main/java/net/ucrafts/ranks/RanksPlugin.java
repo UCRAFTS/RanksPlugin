@@ -24,7 +24,7 @@ import java.util.concurrent.TimeUnit;
 @Plugin(
         id = "ranks",
         name = "RanksPlugin",
-        version = "1.0.0",
+        version = "1.0.2",
         url = "https://ucrafts.net",
         description = "Change permission group by play time",
         authors = {

@@ -32,11 +32,11 @@ public class MySQLDataSource extends AbstractDataSource implements DataSourceInt
         hikariConfig.setDriverClassName(this.driverClassName);
         hikariConfig.setUsername(this.config.getConfig().getString(ConfigType.DB_USER.getName()));
         hikariConfig.setPassword(this.config.getConfig().getString(ConfigType.DB_PASS.getName()));
-        hikariConfig.setMaximumPoolSize(20);
+        hikariConfig.setMaximumPoolSize(10);
         hikariConfig.setPoolName("RanksPool");
         hikariConfig.setJdbcUrl(
                 String.format(
-                        "jdbc:mysql://%s:%s/%s?useSSL=false&verifyServerCertificate=false&autoReconnect=true",
+                        "jdbc:mysql://%s:%s/%s?useSSL=false&verifyServerCertificate=false&autoReconnect=true&serverTimezone=UTC",
                         this.config.getConfig().getString(ConfigType.DB_HOST.getName()),
                         this.config.getConfig().getInt(ConfigType.DB_PORT.getName()),
                         this.config.getConfig().getString(ConfigType.DB_BASE.getName())
